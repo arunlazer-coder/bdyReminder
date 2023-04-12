@@ -9,8 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@material-tailwind/react": "^1.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-image-crop": "^10.0.9",
     "react-router-dom": "^6.10.0",
     "tailwind-datepicker-react": "^1.2.3"
   },
